@@ -8353,6 +8353,9 @@ a.btn-circle:hover {
         /* margin-left: 100px; */
         align-items: center;
     }
+    .headingcourse{
+        text-align: center;
+    }
 }
 .course-card {
     background: white;
@@ -8403,6 +8406,9 @@ a.btn-circle:hover {
 @media (max-width: 768px){
     .image-section{
         display: none;
+    }
+    .head{
+        text-align: center;
     }
 }
 
