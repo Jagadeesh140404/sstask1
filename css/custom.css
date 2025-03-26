@@ -8350,7 +8350,7 @@ a.btn-circle:hover {
 @media (max-width:768px){
     .courses{
         grid-template-columns: 1fr;
-        margin-left: 100px;
+        /* margin-left: 100px; */
         align-items: center;
     }
 }
@@ -8390,7 +8390,7 @@ a.btn-circle:hover {
 
 
 .container26{
-    width: 80%;
+    width: 100%;
     margin: auto;
     /* display: ; */
     align-items: center;
@@ -8477,7 +8477,6 @@ a.btn-circle:hover {
 @media (max-width: 768px){
     .team-section{
         grid-template-columns: 1fr;
-        margin-left: 40px;
     }
 }
 .team-member {
